@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a18,50:6b2d5e,100:c2185b&height=200&section=header&text=Tanishka%20Rathore&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=App%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20Flutter%20%26%20React%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a18,50:6b2d5e,100:c2185b&height=200&section=header&text=Tanishka%20Rathore&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=App%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20Flutter%20%26%20React%20Builder&descAlignY=58&descSize=18" alt="header"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F48FB1&center=true&vCenter=true&random=false&width=700&lines=📱+Building+apps+with+Flutter%2C+React+%26+Swift;🧠+Diving+deep+into+AI%2FML+with+TensorFlow;🎨+Blending+code+with+branding+%26+strategy;🚀+CSIT+%40+Acropolis+Institute%2C+Indore" alt="Typing SVG" /></a>
 
 <br/>
 
