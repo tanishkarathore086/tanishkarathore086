@@ -3,11 +3,6 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a18,50:6b2d5e,100:c2185b&height=200&section=header&text=Tanishka%20Rathore&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=App%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20Flutter%20%26%20React%20Builder&descAlignY=58&descSize=18" alt="header"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F48FB1&center=true&vCenter=true&random=false&width=700&lines=📱+Building+apps+with+Flutter%2C+React+%26+Swift;🧠+Diving+deep+into+AI%2FML+with+TensorFlow;🎨+Blending+code+with+branding+%26+strategy;🚀+CSIT+%40+Acropolis+Institute%2C+Indore" alt="Typing SVG" /></a>
-
-<br/>
-
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishka086)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishkarathore086)
@@ -138,11 +133,6 @@ me.say_hi()
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanishkarathore086&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishkarathore086&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishkarathore086&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
